@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
