@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prajakta2205/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
