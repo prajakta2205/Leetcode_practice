@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prajakta2205/Leetcode_practice/tree/master/0067-add-binary) |
+| [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 ## Tree
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
+| [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
+| [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
