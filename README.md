@@ -95,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
