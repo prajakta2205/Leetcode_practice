@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prajakta2205/Leetcode_practice/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
