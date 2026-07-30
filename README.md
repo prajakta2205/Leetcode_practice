@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prajakta2205/Leetcode_practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0191-number-of-1-bits) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3827-count-monobit-integers](https://github.com/prajakta2205/Leetcode_practice/tree/master/3827-count-monobit-integers) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/prajakta2205/Leetcode_practice/tree/master/3827-count-monobit-integers) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
