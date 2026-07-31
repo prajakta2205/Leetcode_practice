@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/prajakta2205/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prajakta2205/Leetcode_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/prajakta2205/Leetcode_practice/tree/master/3827-count-monobit-integers) |
 ## Brainteaser
 |  |
