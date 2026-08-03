@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajakta2205/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajakta2205/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/prajakta2205/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/prajakta2205/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/prajakta2205/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
