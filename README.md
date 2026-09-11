@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/0171-excel-sheet-column-number) |
 | [1037-valid-boomerang](https://github.com/prajakta2205/Leetcode_practice/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prajakta2205/Leetcode_practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/prajakta2205/Leetcode_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/prajakta2205/Leetcode_practice/tree/master/1037-valid-boomerang) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prajakta2205/Leetcode_practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prajakta2205/Leetcode_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
