@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prajakta2205/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 ## Divide and Conquer
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
 ## Simulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prajakta2205/Leetcode_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prajakta2205/Leetcode_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
