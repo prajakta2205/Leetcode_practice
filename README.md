@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prajakta2205/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prajakta2205/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/prajakta2205/Leetcode_practice/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prajakta2205/Leetcode_practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/prajakta2205/Leetcode_practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prajakta2205/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prajakta2205/Leetcode_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0401-binary-watch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prajakta2205/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
