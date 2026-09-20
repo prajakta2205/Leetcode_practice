@@ -83,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prajakta2205/Leetcode_practice/tree/master/0067-add-binary) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/prajakta2205/Leetcode_practice/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
