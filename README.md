@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prajakta2205/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3827-count-monobit-integers](https://github.com/prajakta2205/Leetcode_practice/tree/master/3827-count-monobit-integers) |
 ## String
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajakta2205/Leetcode_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prajakta2205/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajakta2205/Leetcode_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prajakta2205/Leetcode_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
