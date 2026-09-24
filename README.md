@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prajakta2205/Leetcode_practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prajakta2205/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prajakta2205/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prajakta2205/Leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3028-ant-on-the-boundary](https://github.com/prajakta2205/Leetcode_practice/tree/master/3028-ant-on-the-boundary) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prajakta2205/Leetcode_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
