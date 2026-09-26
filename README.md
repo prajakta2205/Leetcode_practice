@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prajakta2205/Leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prajakta2205/Leetcode_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1652-defuse-the-bomb](https://github.com/prajakta2205/Leetcode_practice/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/prajakta2205/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/prajakta2205/Leetcode_practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prajakta2205/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/prajakta2205/Leetcode_practice/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
