@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prajakta2205/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prajakta2205/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/prajakta2205/Leetcode_practice/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/prajakta2205/Leetcode_practice/tree/master/2000-reverse-prefix-of-word) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
