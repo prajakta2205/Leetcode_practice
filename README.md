@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/prajakta2205/Leetcode_practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/prajakta2205/Leetcode_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajakta2205/Leetcode_practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajakta2205/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/prajakta2205/Leetcode_practice/tree/master/1037-valid-boomerang) |
