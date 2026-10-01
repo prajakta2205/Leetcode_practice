@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajakta2205/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajakta2205/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/prajakta2205/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prajakta2205/Leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/prajakta2205/Leetcode_practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prajakta2205/Leetcode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/0171-excel-sheet-column-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
