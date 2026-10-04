@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/prajakta2205/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prajakta2205/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prajakta2205/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prajakta2205/Leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/prajakta2205/Leetcode_practice/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/prajakta2205/Leetcode_practice/tree/master/1598-crawler-log-folder) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/prajakta2205/Leetcode_practice/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/prajakta2205/Leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajakta2205/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/prajakta2205/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prajakta2205/Leetcode_practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
